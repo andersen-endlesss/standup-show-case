@@ -1,0 +1,23 @@
+{
+"$type":"EndlessAdv.AuthDatas.LocationData, Assembly-CSharp",
+"DefinitionAndTiles":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp]], mscorlib]], mscorlib"},
+"BackgroundDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
+"OverlayDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
+"PaintOverDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
+"Props":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentPropData, Assembly-CSharp]], mscorlib","$values":[]},
+"Lights":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentLightData, Assembly-CSharp]], mscorlib","$values":[]},
+"NamedZones":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.NamedZoneData, Assembly-CSharp]], mscorlib"},
+"GlobalColor":{"$type":"SerializableColor, Assembly-CSharp","R":1.0,"G":1.0,"B":1.0,"A":1.0},
+"PostProcessingIndex":0,
+"thumbnailImgId":"06742c31-a944-4d31-ae37-c370d63c4bba",
+"StartingTags":null,
+"ID":"Location-ba6995eb-f7e3-4b2f-a5cc-e36871f890a0",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"New Location","ID":"9becf826-21d8-4fc4-9df9-5d2654a1eeae","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"caacb17e-4951-445b-96c6-ff6bd612fc35","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"9d0022c2-bbd4-4299-a77b-ae3952ec7cbd","isActive":false}
+]},
+"ToolName":"New Location",
+"AuthorName":"",
+"dataVersion":16
+}
