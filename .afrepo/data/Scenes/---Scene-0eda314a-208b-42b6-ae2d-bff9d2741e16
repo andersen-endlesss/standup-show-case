@@ -1,6 +1,11 @@
 {
 "$type":"EndlessAdv.AuthDatas.SceneData, Assembly-CSharp",
-"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},
+"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.AuthDatas.ActionData, Assembly-CSharp","Trigger":0,"Conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Outcomes":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.OutcomeStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.OutcomeStatement, Assembly-CSharp","Operation":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2862}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2895},{"$type":"EndlessAdv.PropertyLogicItem, Assembly-CSharp","Property":89,"ID":"LogBlock-2b0e2eda-9b41-43db-83b3-51539b3fd37a"}]}}]},"isEnabled":true,"OnLabelChanged":null}]},"isEnabled":true,"ID":"-Actions-bb0b84be-4cb4-4ccc-881f-5c3723f01f49","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"08b000e6-b337-43a5-9f03-bb5c02f72463","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"d3ee2fd4-8f79-4838-ab1e-e64d3478d503","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16}
+]},
 "SceneElementNodes":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.SceneEventData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.SceneEventData, Assembly-CSharp]], mscorlib"
 }},
