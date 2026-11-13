@@ -4,9 +4,11 @@
 "Name":"PackedFiles_Adventure_Assets_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/",
-"LastChangedTime":"2026-11-13T17:20:19.536695Z",
+"LastChangedTime":"2026-11-13T17:22:04.8388481Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
-"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[]}
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"94fc5212-ea43-4dde-ad0a-b2eee1f8670b","FileName":"Character_BusinessMan_Shirt.fbx","FileSize":296428,"Type":7,"DateTime":"2026-11-13T17:22:04.816581Z"}
+]}
 }

@@ -23,7 +23,8 @@
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TagCategoryData, Assembly-CSharp]], mscorlib"
 }},
 "CharacterDefinitions":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.CharacterDefinitionData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
-"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.CharacterDefinitionData, Assembly-CSharp]], mscorlib"
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.CharacterDefinitionData, Assembly-CSharp]], mscorlib",
+"CharData-d4c47a8b-1816-4fb7-8a4e-3ec8e9b44bb9":"@data/CharacterDefinitions/CharData-d4c47a8b-1816-4fb7-8a4e-3ec8e9b44bb9"
 }},
 "CharacterClasses":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.CharClassData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.CharClassData, Assembly-CSharp]], mscorlib"
