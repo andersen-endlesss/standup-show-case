@@ -5,7 +5,12 @@
 "OverlayDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
 "PaintOverDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
 "Props":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentPropData, Assembly-CSharp]], mscorlib","$values":[]},
-"Lights":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentLightData, Assembly-CSharp]], mscorlib","$values":[]},
+"Lights":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentLightData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentLightData, Assembly-CSharp","LightIntensity":5,"LightRange":25,"LightColor":{"$type":"SerializableColor, Assembly-CSharp","R":1.0,"G":0.0,"B":0.0,"A":1.0},"ExposeToLogic":false,"GridPositionX":6,"GridPositionY":4,"GridPositionZ":2,"AdditionalGridPositionX":0.34307814,"AdditionalGridPositionY":-0.113282725,"AdditionalGridPositionZ":-0.20973635,"FlipX":false,"ID":"-fabce0f2-702e-4eff-9c21-00f3a1901cf5","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Light at 6 4 0","ID":"b7b724f2-03f6-41e6-95cb-b85c94811cc2","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d3df13e5-84d2-47ab-b16a-c3647f84a1d0","isActive":false}
+]},"ToolName":"Light at 6 4 0","AuthorName":"","dataVersion":16}
+]},
 "NamedZones":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.NamedZoneData, Assembly-CSharp]], mscorlib"},
 "GlobalColor":{"$type":"SerializableColor, Assembly-CSharp","R":1.0,"G":1.0,"B":1.0,"A":1.0},
 "PostProcessingIndex":0,
