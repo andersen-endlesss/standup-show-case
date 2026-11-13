@@ -1,0 +1,12 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"Default_LocationsManifest",
+"Name":"PackedFiles_EndlessAdv.AuthDatas.LocationData_.zip",
+"PlayfabID":null,
+"LocalPath":"EndlessAdv.AuthDatas.LocationData/",
+"LastChangedTime":"2026-11-13T17:20:19.5367989Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[]}
+}

@@ -1,0 +1,14 @@
+{
+"$type":"EndlessAdv.AuthDatas.IsometricSceneClientThemeItemData, Assembly-CSharp",
+"ID":"00000000-ClientTh-00000000-0000-0000-0000-000000000009",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"IsometricScene","ID":"52624c14-6495-4cb2-8b13-cb3ba96959b5","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"8ed1caf6-6d83-40cc-bd6a-46be358414e1","isActive":false},
+{"$type":"EAOBJPlaymodeIsometricLocationMarkerThemeComponentData, Assembly-CSharp","disabledImgPath":null,"hoverImgPath":null,"pressedEmptyTileImgPath":null,"pressedInteractableImgPath":null,"InvalidColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.2,"G":0.2,"B":0.2,"A":0.5},"hoverColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.1,"G":0.8,"B":0.1,"A":0.5},"pressedEmptyTileColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.2,"G":1.0,"B":0.2,"A":1.0},"pressedInteractableColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.05,"G":0.4,"B":1.0,"A":1.0},"ID":"df571454-8a3b-4f2f-811e-5fff43e12e56","isActive":false},
+{"$type":"EAOBJPlaymodeIsometricCursorsThemeComponentData, Assembly-CSharp","invalidTargetHoverImgPath":null,"validTargetHoverImgPath":null,"validTargetClickImgPath":null,"ID":"c9638efc-f20e-41ca-a667-47046d3f6a9c","isActive":false},
+{"$type":"EAObjFloodColorComponentData, Assembly-CSharp","floodMainColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.5,"G":0.0,"B":0.0,"A":0.5},"floodBorderColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.0,"G":0.0,"B":0.0,"A":0.0},"imagePath":null,"ID":"052cc5cf-f628-41d1-b0fd-7262c39ae539","isActive":false}
+]},
+"ToolName":"IsometricScene",
+"AuthorName":"",
+"dataVersion":16
+}

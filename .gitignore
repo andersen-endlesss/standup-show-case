@@ -1,0 +1,13 @@
+# Written by Adventure Forge. The documents below are kept split in .afrepo/ instead.
+/AdventureData
+/AdventureData-moving
+/Manifest
+/MetadataBackup
+/GenericClipboardData
+/*Location-*
+/Logs/
+/RecoveryBin/
+/ContentPacks/
+*.tmp
+*.part
+.DS_Store

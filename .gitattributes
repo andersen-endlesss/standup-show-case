@@ -1,0 +1,6 @@
+# Written by Adventure Forge. Assets go through Git LFS; the split documents are text.
+* filter=lfs diff=lfs merge=lfs -text
+.afrepo/** !filter !diff !merge text eol=lf
+.gitattributes !filter !diff !merge text eol=lf
+.gitignore !filter !diff !merge text eol=lf
+Metadata !filter !diff !merge -text

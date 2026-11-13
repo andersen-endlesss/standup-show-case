@@ -1,0 +1,7 @@
+{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[NewContentManager+ManifestEntry, Assembly-CSharp]], mscorlib",
+"Default_AdventureAssetsManifest":"@manifest/Default_AdventureAssetsManifest",
+"Default_LocationsManifest":"@manifest/Default_LocationsManifest",
+"Default_IsoSceneThumbnailsManifest":"@manifest/Default_IsoSceneThumbnailsManifest",
+"ef2bde96-2db5-48eb-b323-90a44238fb94":"@manifest/ef2bde96-2db5-48eb-b323-90a44238fb94"
+}
