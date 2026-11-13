@@ -1,0 +1,14 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-51c7411a-916a-4c5f-942c-633e193e2a36",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Test Tag","ID":"f4676252-ae82-44d9-9e7a-45f53f931109","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"8448208d-462c-4e83-8bbd-9c4488154494","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"51bc569f-729e-40fe-b8ac-ebd86c9637f0","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"53376a65-13bc-480a-a4d7-1a99e617729b","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":null,"ID":"7bd76ae6-8e22-49c2-8a58-dd5f1c1e463e","isActive":false}
+]},
+"ToolName":"Test Tag",
+"AuthorName":"",
+"dataVersion":16
+}

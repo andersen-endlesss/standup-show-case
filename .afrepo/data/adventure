@@ -11,7 +11,8 @@
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"77079a02-414e-4e24-bb9b-bd3e540aca11","isActive":false}
 ]},"ToolName":"Audio Presets","AuthorName":"","dataVersion":16},
 "ValueTags":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
-"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp]], mscorlib"
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp]], mscorlib",
+"ValueTag-51c7411a-916a-4c5f-942c-633e193e2a36":"@data/ValueTags/ValueTag-51c7411a-916a-4c5f-942c-633e193e2a36"
 }},
 "ReferenceTags":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.ReferenceTagData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.ReferenceTagData, Assembly-CSharp]], mscorlib"
