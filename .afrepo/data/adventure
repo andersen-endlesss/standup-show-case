@@ -120,13 +120,16 @@
 "Filters":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.FilterData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.FilterData, Assembly-CSharp]], mscorlib"
 }},
-"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},
+"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.AuthDatas.ActionData, Assembly-CSharp","Trigger":0,"Conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Outcomes":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.OutcomeStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.OutcomeStatement, Assembly-CSharp","Operation":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2860}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":70},{"$type":"EndlessAdv.ClarifyingIDLogicItem, Assembly-CSharp","DataType":13,"ClarifyingID":null,"ClarifyingIDTextLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EATextLogicSection, Assembly-CSharp","ID":"cdb2412b-c964-4d7b-bfd3-37cfb9ce015d","Label":"---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16","LogicTextType":1,"Data":null}
+]}}}]}}]},"isEnabled":true,"OnLabelChanged":null}]}}]},
 "TriggersV2":{"$type":"System.Collections.Generic.Dictionary`2[[EndlessAdv.AuthDatas.TriggerEvent, Assembly-CSharp],[System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TriggerDataV2, Assembly-CSharp]], mscorlib]], mscorlib"},
 "Folders":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib"
 }},
 "Scenes":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.SceneData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
-"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.SceneData, Assembly-CSharp]], mscorlib"
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.SceneData, Assembly-CSharp]], mscorlib",
+"---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16":"@data/Scenes/---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16"
 }},
 "ContentPackNodes":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.ContentPackNodeData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.ContentPackNodeData, Assembly-CSharp]], mscorlib"
