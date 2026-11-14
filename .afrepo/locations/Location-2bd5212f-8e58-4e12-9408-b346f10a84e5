@@ -1,0 +1,28 @@
+{
+"$type":"EndlessAdv.AuthDatas.LocationData, Assembly-CSharp",
+"DefinitionAndTiles":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp]], mscorlib]], mscorlib","00000000-----Tile-00000000-0000-0000-0000-000000000000":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"00000000-----Tile-00000000-0000-0000-0000-000000000000","VariationIndex":0,"GridPositionX":1,"GridPositionY":3,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-12a13a41-e6e7-48e2-a93d-95be4192c957","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"38a3cabf-3bb2-4ece-9158-1753be384a88","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"03ae1684-faf6-4799-864f-98feae1d909d","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16}
+]}},
+"BackgroundDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
+"OverlayDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
+"PaintOverDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
+"Props":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentPropData, Assembly-CSharp]], mscorlib","$values":[]},
+"Lights":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentLightData, Assembly-CSharp]], mscorlib","$values":[]},
+"NamedZones":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.NamedZoneData, Assembly-CSharp]], mscorlib"},
+"GlobalColor":{"$type":"SerializableColor, Assembly-CSharp","R":1.0,"G":1.0,"B":1.0,"A":1.0},
+"PostProcessingIndex":0,
+"thumbnailImgId":"2f4a1cd4-0db2-4a11-a227-37fee8718706",
+"StartingTags":null,
+"ID":"Location-2bd5212f-8e58-4e12-9408-b346f10a84e5",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"New Location","ID":"687c7239-8b24-4c2a-9acb-5ce3feff0764","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"eb5f8e5a-2c10-40c4-9572-7ae74add1f44","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"82651359-75df-47a8-a999-c3610ef21f0d","isActive":false}
+]},
+"ToolName":"New Location",
+"AuthorName":"",
+"dataVersion":16
+}
