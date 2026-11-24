@@ -12,7 +12,8 @@
 ]},"ToolName":"Audio Presets","AuthorName":"","dataVersion":16},
 "ValueTags":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp]], mscorlib",
-"ValueTag-51c7411a-916a-4c5f-942c-633e193e2a36":"@data/ValueTags/ValueTag-51c7411a-916a-4c5f-942c-633e193e2a36"
+"ValueTag-51c7411a-916a-4c5f-942c-633e193e2a36":"@data/ValueTags/ValueTag-51c7411a-916a-4c5f-942c-633e193e2a36",
+"ValueTag-113a9d72-70d8-4564-8844-6feb9e9fdcdc":"@data/ValueTags/ValueTag-113a9d72-70d8-4564-8844-6feb9e9fdcdc"
 }},
 "ReferenceTags":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.ReferenceTagData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.ReferenceTagData, Assembly-CSharp]], mscorlib"
@@ -42,7 +43,8 @@
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TileStateData, Assembly-CSharp]], mscorlib"
 }},
 "Abilities":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.AbilityData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
-"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.AbilityData, Assembly-CSharp]], mscorlib"
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.AbilityData, Assembly-CSharp]], mscorlib",
+"-Ability-e14e0a8a-9137-4685-b85b-06ba9fc8f2e3":"@data/Abilities/-Ability-e14e0a8a-9137-4685-b85b-06ba9fc8f2e3"
 }},
 "Buffs":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.BuffData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.BuffData, Assembly-CSharp]], mscorlib"
@@ -120,16 +122,22 @@
 "Filters":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.FilterData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.FilterData, Assembly-CSharp]], mscorlib"
 }},
-"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.AuthDatas.ActionData, Assembly-CSharp","Trigger":0,"Conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Outcomes":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.OutcomeStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.OutcomeStatement, Assembly-CSharp","Operation":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2860}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":70},{"$type":"EndlessAdv.ClarifyingIDLogicItem, Assembly-CSharp","DataType":13,"ClarifyingID":null,"ClarifyingIDTextLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[
-{"$type":"EATextLogicSection, Assembly-CSharp","ID":"cdb2412b-c964-4d7b-bfd3-37cfb9ce015d","Label":"---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16","LogicTextType":1,"Data":null}
-]}}}]}}]},"isEnabled":true,"OnLabelChanged":null}]}}]},
+"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.AuthDatas.ActionData, Assembly-CSharp","Trigger":0,"Conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Outcomes":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.OutcomeStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.OutcomeStatement, Assembly-CSharp","Operation":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2860}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":310},{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":70},{"$type":"EndlessAdv.ClarifyingIDLogicItem, Assembly-CSharp","DataType":13,"ClarifyingID":null,"ClarifyingIDTextLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EATextLogicSection, Assembly-CSharp","ID":"e7d7f8c9-fbed-48e5-90e6-a3a920dff019","Label":"---Scene-443d9345-e4c9-4ce3-836c-c720351b7619","LogicTextType":1,"Data":null}
+]}}}]}}]},"isEnabled":true,"OnLabelChanged":null}]},"isEnabled":true,"ID":"-Actions-da5f1ba3-714d-4423-bd03-68f0d0e1e819","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"d65a0461-fb8e-4c78-9ece-a4448b26a97f","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"714cfd4e-6086-4540-ae72-5069bd27e77d","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16}
+]},
 "TriggersV2":{"$type":"System.Collections.Generic.Dictionary`2[[EndlessAdv.AuthDatas.TriggerEvent, Assembly-CSharp],[System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TriggerDataV2, Assembly-CSharp]], mscorlib]], mscorlib"},
 "Folders":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib"
 }},
 "Scenes":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.SceneData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.SceneData, Assembly-CSharp]], mscorlib",
-"---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16":"@data/Scenes/---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16"
+"---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16":"@data/Scenes/---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16",
+"---Scene-443d9345-e4c9-4ce3-836c-c720351b7619":"@data/Scenes/---Scene-443d9345-e4c9-4ce3-836c-c720351b7619"
 }},
 "ContentPackNodes":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.ContentPackNodeData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.ContentPackNodeData, Assembly-CSharp]], mscorlib"
@@ -147,11 +155,18 @@
 "CurrentClientThemingGlobalSettingsContentPackID":"",
 "CurrentCombatSettingsContentPackID":"",
 "MarkedAsNewItem":false,
-"SavedBuildNumber":1003220261113,
+"SavedBuildNumber":1003220261124,
 "CurrentKeyBindingsContentPackID":"",
 "AFCombatRulesets":{"Default":"CmbtRule-b309dd1d-eaf3-47e8-833b-f230e1c467de","Rulesets":[
 {"$type":"AFCombatRulesetData","ID":"CmbtRule-b309dd1d-eaf3-47e8-833b-f230e1c467de","ToolName":"Default","TextLogics":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EAOBJCombatFixedInitPositionComponentData, Assembly-CSharp","behaviourType":0,"ID":"2de75a67-e46c-4d3b-91f8-51e9acf3f96c","isActive":false}
 ]},"StartLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"StartPlacement":{"$type":"SerializableVector2, Assembly-CSharp","x":0.0,"y":0.0},"Triggers":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[]},"LogicBlocks":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib","$values":[]},"Folders":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib","$values":[]}}
-]}
+]},
+"AFGameRules":{"Version":1,"ID":"GameRules-cbdc57cd-2bec-4420-af31-02a0461377e3","ToolName":"Game rules","steps":{},"kinds":[
+{"ID":"Kind-ca3bf3cb-0a79-4f48-ab19-31fbc8068ba7","ToolName":"Melee","about":"Swings at someone next to it. The hit lands mid-swing.","steps":{"release":{"mode":"adjust","settings":{"lands":"clip","at":0.4}}}},
+{"ID":"Kind-3ae5c6fb-53a1-4da1-836a-ec2ae263cf06","ToolName":"Ranged","about":"Shoots from a distance. The hit waits for the shot.","steps":{"release":{"mode":"adjust","settings":{"lands":"vfx","at":0.5}}}},
+{"ID":"Kind-99fd5474-8cf3-4d26-9c99-e6c1728979ac","ToolName":"Spell","about":"Plays Cast. The hit waits for the VFX to land.","steps":{"wind_up":{"mode":"adjust","settings":{"animation":"Cast"}},"release":{"mode":"adjust","settings":{"lands":"vfx","at":0.6}}}},
+{"ID":"Kind-3a9a14c7-77d6-4c71-a5c1-6a0125d79c06","ToolName":"Movement","about":"Moves the caster. No damage.","steps":{"wind_up":{"mode":"adjust","settings":{"face_target":false,"animation":""}},"release":{"mode":"adjust","settings":{"lands":"clip","at":0}},"damage":{"mode":"adjust","settings":{"formula":[]}},"react":{"mode":"adjust","settings":{"hit":"","small_hit":""}}}},
+{"ID":"Kind-4f3966da-369a-4ec0-b37f-0b1eef8e59fb","ToolName":"Support","about":"Heals or helps allies. No damage.","steps":{"damage":{"mode":"adjust","settings":{"formula":[]}},"react":{"mode":"adjust","settings":{"hit":"","small_hit":""}}}}
+],"stats":[],"Triggers":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[]},"LogicBlocks":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib","$values":[]},"Folders":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib","$values":[]},"kit":"tactics"}
 }

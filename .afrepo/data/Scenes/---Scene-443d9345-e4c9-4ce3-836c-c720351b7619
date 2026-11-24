@@ -1,0 +1,38 @@
+{
+"$type":"EndlessAdv.AuthDatas.IsometricSceneData, Assembly-CSharp",
+"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.AuthDatas.ActionData, Assembly-CSharp","Trigger":0,"Conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Outcomes":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.OutcomeStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.OutcomeStatement, Assembly-CSharp","Operation":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2861}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":126},{"$type":"EndlessAdv.PropertyLogicItem, Assembly-CSharp","Property":4,"ID":"ComEvent-4cce51da-600c-4843-a24d-e01fa2da9380"}]}}]},"isEnabled":true,"OnLabelChanged":null}]}}]},
+"SceneElementNodes":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.SceneEventData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.SceneEventData, Assembly-CSharp]], mscorlib",
+"ComEvent-4cce51da-600c-4843-a24d-e01fa2da9380":"@data/Scenes/---Scene-443d9345-e4c9-4ce3-836c-c720351b7619.items/SceneElementNodes/ComEvent-4cce51da-600c-4843-a24d-e01fa2da9380"
+}},
+"LogicBlocks":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib"
+}},
+"persistentInterfaces":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.EAPersistentInterfaceData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.EAPersistentInterfaceData, Assembly-CSharp]], mscorlib"
+}},
+"DefaultTransition":1,
+"TriggersV2":{"$type":"System.Collections.Generic.Dictionary`2[[EndlessAdv.AuthDatas.TriggerEvent, Assembly-CSharp],[System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TriggerDataV2, Assembly-CSharp]], mscorlib]], mscorlib"},
+"Triggers":{"$type":"System.Collections.Generic.Dictionary`2[[EndlessAdv.AuthDatas.TriggerEvent, Assembly-CSharp],[System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TriggerData, Assembly-CSharp]], mscorlib]], mscorlib"},
+"isFirstTimeLoaded":true,
+"ParentGroupID":null,
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["Adventure"]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":20.0,"y":-200.0}]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"---Scene-443d9345-e4c9-4ce3-836c-c720351b7619",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Isometric Scene","ID":"f29a54ab-1f49-4860-ba53-fc82ae9cda63","isActive":false},
+{"$type":"EAOBJPersistentInterfaceAsignerComponentData, Assembly-CSharp","persistentUIID":null,"ID":"0e0a8cd3-5cf5-425d-a20d-e4dfa0f76957","isActive":false},
+{"$type":"EAOBJIsometricEditorHandlerComponentData, Assembly-CSharp","LocationID":"Location-ba6995eb-f7e3-4b2f-a5cc-e36871f890a0","InitialCharacters":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.CharacterSpawnData, Assembly-CSharp]], mscorlib","$values":[]},"PropsLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricSceneTargetLogic, Assembly-CSharp]], mscorlib","$values":[]},"NamedZonesLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricSceneTargetLogic, Assembly-CSharp]], mscorlib","$values":[]},"ID":"60e52736-aebc-4a3b-9970-0e475a3898cf","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"c19327b8-98a3-4c5b-ad27-e047f1383747","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"d82b406b-60fb-491e-a2dd-963828ddcfa7","isActive":false},
+{"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-e9bc20a9-35d2-40f1-95a4-8f77bbaa8cb3","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"b80b6bd6-3a6c-46f4-b480-395ba341efb8","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"eae40464-ab0b-42c2-ad7b-ef7ece06e2e2","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"bf55771f-565b-4e3b-a69b-78270261a94e","isActive":false}
+]},
+"ToolName":"Isometric Scene",
+"AuthorName":"",
+"dataVersion":16,
+"IsoData":{"$type":"EAOBJIsometricEditorHandlerComponentData, Assembly-CSharp","LocationID":"Location-ba6995eb-f7e3-4b2f-a5cc-e36871f890a0","InitialCharacters":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.CharacterSpawnData, Assembly-CSharp]], mscorlib","$values":[]},"PropsLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricSceneTargetLogic, Assembly-CSharp]], mscorlib","$values":[]},"NamedZonesLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricSceneTargetLogic, Assembly-CSharp]], mscorlib","$values":[]},"ID":"60e52736-aebc-4a3b-9970-0e475a3898cf","isActive":false}
+}

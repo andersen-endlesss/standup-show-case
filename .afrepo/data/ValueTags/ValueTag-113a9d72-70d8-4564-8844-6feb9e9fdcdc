@@ -1,0 +1,15 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-113a9d72-70d8-4564-8844-6feb9e9fdcdc",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Down","ID":"615376b0-ebca-4b66-8453-1e1116529710","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"739e7e04-f157-4a98-bbf7-a358a416fbbf","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"ba514d22-73a6-404b-9f99-17cdb3926463","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"7797f929-1c15-4623-b78e-7d485b3c02b2","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":null,"ID":"d329f65b-95e1-4c9e-99d3-aba05baaba15","isActive":false}
+]},
+"ToolName":"Down",
+"AuthorName":"",
+"dataVersion":16,
+"AFCombatStatus":{"Version":1,"On":true,"Starts":[],"Ends":"logic","Countdown":false,"SkipsTurns":true,"Untargetable":true,"CountsOut":true,"Map":"walk","Dim":true,"Color":"#8b95a7"}
+}

@@ -28,7 +28,7 @@
 "isFirstTimeLoaded":true,
 "ParentGroupID":null,
 "NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["Adventure"]},
-"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":280.0,"y":10.0}]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":390.0,"y":-160.0}]},
 "TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
 "ID":"---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16",
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
