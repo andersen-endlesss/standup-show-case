@@ -1,6 +1,6 @@
 {
 "$type":"AdventureData, Assembly-CSharp",
-"GeneralData":{"$type":"AdventureGeneralData, Assembly-CSharp","StartingTags":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"BGImagePath":null,"LogoImagePath":null,"DefaultTransition":0,"GameplaySaveType":0,"DataVersion":1},
+"GeneralData":{"$type":"AdventureGeneralData, Assembly-CSharp","StartingTags":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"BGImagePath":null,"LogoImagePath":null,"DefaultTransition":0,"GameplaySaveType":0,"DataVersion":2},
 "AudioData":{"$type":"EndlessAdv.AuthDatas.AudioContainerPresetDataList, Assembly-CSharp","ContainersData":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.AudioContainerPresetData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EndlessAdv.AuthDatas.AudioContainerPresetData, Assembly-CSharp","Items":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.EAAudioData, Assembly-CSharp]], mscorlib","$values":[]},"Mixer":{"$type":"EndlessAdv.AuthDatas.MixerData, Assembly-CSharp","Volume":1.0,"MusicVolume":1.0,"SFXVolume":1.0},"Type":1,"ID":"AudioCon-cc95db36-d24a-4c82-8fd4-a631b0d53d44","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Master Mix","ID":"6f9247c8-913e-42ae-9ffb-01facc421da1","isActive":false},
@@ -155,7 +155,7 @@
 "CurrentClientThemingGlobalSettingsContentPackID":"",
 "CurrentCombatSettingsContentPackID":"",
 "MarkedAsNewItem":false,
-"SavedBuildNumber":1003220261124,
+"SavedBuildNumber":1003220261126,
 "CurrentKeyBindingsContentPackID":"",
 "AFCombatRulesets":{"Default":"CmbtRule-b309dd1d-eaf3-47e8-833b-f230e1c467de","Rulesets":[
 {"$type":"AFCombatRulesetData","ID":"CmbtRule-b309dd1d-eaf3-47e8-833b-f230e1c467de","ToolName":"Default","TextLogics":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
