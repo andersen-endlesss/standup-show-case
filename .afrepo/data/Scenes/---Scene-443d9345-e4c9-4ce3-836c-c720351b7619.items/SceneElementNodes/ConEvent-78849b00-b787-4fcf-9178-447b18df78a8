@@ -1,0 +1,30 @@
+{
+"$type":"EndlessAdv.AuthDatas.ConversationSceneEventData, Assembly-CSharp",
+"Nodes":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TextEventBaseNodeData, Assembly-CSharp]], mscorlib","$values":[]},
+"LogicBlocks":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib"
+}},
+"ParentSceneID":"---Scene-443d9345-e4c9-4ce3-836c-c720351b7619",
+"ParentGroupID":"---Scene-443d9345-e4c9-4ce3-836c-c720351b7619",
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["---Scene-443d9345-e4c9-4ce3-836c-c720351b7619"]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":330.0,"y":-50.0}]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"ConEvent-78849b00-b787-4fcf-9178-447b18df78a8",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Text Event","ID":"621fed00-f932-447b-be60-c59ef3c2c4b2","isActive":false},
+{"$type":"EAOBJExpandScrollComponentData, Assembly-CSharp","expandBehaviour":0,"ID":"fce1a4fb-6648-451d-a83b-b3af0fb204a2","isActive":false},
+{"$type":"EAOBJStartLogicComponentData, Assembly-CSharp","LogicList":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"8a6848ca-81a7-4edd-8a37-2fd14b8c692b","isActive":false},
+{"$type":"EAOBJPersistentInterfaceAsignerComponentData, Assembly-CSharp","persistentUIID":null,"ID":"08906243-16a3-4a35-8b29-f9106cc69b79","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d807d6fd-5c7f-4493-a3c8-6f08d57786d4","isActive":false},
+{"$type":"EAOBJOverrideWindowPlacementComponentData, Assembly-CSharp","placementData":{"$type":"EndlessAdv.AuthDatas.SceneEventWindowTransformData, Assembly-CSharp","RelativePosition":{"$type":"SerializableVector2, Assembly-CSharp","x":0.0,"y":0.0},"RelativeSize":{"$type":"SerializableVector2, Assembly-CSharp","x":1.0,"y":1.0},"CrossHairRelativePos":{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.5}},"ID":"cc3524ff-e554-4714-abeb-ac0fcf84c540","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"131d98f2-05d6-417e-94db-cdc2e9657721","isActive":false},
+{"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-bd2c9749-f4be-485d-8704-11e7a298dcd0","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"09eb2eb6-6633-4311-8b7c-7f6c0b8fae92","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"4ae51f3b-6fdc-4703-8a97-409b04e6cbfe","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"8c2c4408-b972-4128-a168-a95badeb7070","isActive":false},
+{"$type":"EATextEventInitialStateOverrideComponentData, Assembly-CSharp","initialState":"00000000-CThState-00000000-0000-0000-0000-000000000000","ID":"eca732b1-f364-4695-b926-5caaec5aec22","isActive":false}
+]},
+"ToolName":"Text Event",
+"AuthorName":"",
+"dataVersion":16
+}

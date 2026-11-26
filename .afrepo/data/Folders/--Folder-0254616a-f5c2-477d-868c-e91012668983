@@ -1,0 +1,15 @@
+{
+"$type":"EndlessAdv.AuthDatas.FolderData, Assembly-CSharp",
+"ParentGroupID":null,
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["Adventure"]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":730.0,"y":40.0}]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"--Folder-0254616a-f5c2-477d-868c-e91012668983",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Folder","ID":"543a67fe-49f8-445c-a681-bcb58f018cf3","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"9951474c-8460-4a97-9db5-9a5eb43f9d1f","isActive":false}
+]},
+"ToolName":"Folder",
+"AuthorName":"",
+"dataVersion":16
+}
