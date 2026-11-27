@@ -1,0 +1,28 @@
+{
+"$type":"EndlessAdv.AuthDatas.EAInterfaceSceneEventData, Assembly-CSharp",
+"ParentSceneID":"---Scene-26d8565b-06eb-4178-b7b8-07ef62f0fb68",
+"ParentGroupID":"---Scene-26d8565b-06eb-4178-b7b8-07ef62f0fb68",
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["---Scene-26d8565b-06eb-4178-b7b8-07ef62f0fb68"]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":390.0,"y":-40.0}]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"IntfEvnt-af041be6-1753-4dae-8e7a-03cdde9a4710",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"2D Event","ID":"0222e8fb-d369-46a8-81ca-bb4f3832c6ee","isActive":false},
+{"$type":"EAOBJStartLogicComponentData, Assembly-CSharp","LogicList":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"4e1d1bbb-87b2-4e6d-8946-aa358d4dfacb","isActive":false},
+{"$type":"EAOBJPersistentInterfaceAsignerComponentData, Assembly-CSharp","persistentUIID":null,"ID":"16da6493-bdec-4d33-89ca-e89bd533b92f","isActive":false},
+{"$type":"EAOBJ2DEditorHandlerComponentData, Assembly-CSharp","screen2DData":{"$type":"EndlessAdv.AuthDatas.EAInterfaceData, Assembly-CSharp","CanvasData":{"$type":"EAInterfaceCanvasData, Assembly-CSharp","ReferenceWidth":1920.0,"ReferenceHeight":1080.0,"CanvasColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.0,"G":0.0,"B":0.0,"A":0.0},"hudSizePresetType":2,"hudPivotPosition":6,"hudAnchorToTargetPosition":3,"hudOffset":{"$type":"SerializableVector2, Assembly-CSharp","x":0.0,"y":0.0},"SortingOrder":0},"Modules":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.EAInterfaceModuleData, Assembly-CSharp]], mscorlib","$values":[]},"Tags":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"CanBeUsedAsHUD":false,"ID":"IntfEvnt-af041be6-1753-4dae-8e7a-03cdde9a4710","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"2D Event","ID":"3ed1b523-c1b6-4f99-adde-84fe5a95f042","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d4a26caf-2e61-4190-85a9-2b0dd48bfbcc","isActive":false}
+]},"ToolName":"2D Event","AuthorName":"","dataVersion":16},"ID":"efffec4e-9ca8-405d-a5bc-cb44711d9ec1","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"3375dbd5-3dfb-4e4a-9513-caf4b67d9fe4","isActive":false},
+{"$type":"EAOBJOverrideWindowPlacementComponentData, Assembly-CSharp","placementData":{"$type":"EndlessAdv.AuthDatas.SceneEventWindowTransformData, Assembly-CSharp","RelativePosition":{"$type":"SerializableVector2, Assembly-CSharp","x":0.0,"y":0.0},"RelativeSize":{"$type":"SerializableVector2, Assembly-CSharp","x":1.0,"y":1.0},"CrossHairRelativePos":{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.5}},"ID":"8f48bffb-75ae-4c3f-96a7-745647548ab7","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"71a7f3d3-4dcc-44b1-adc3-2c0608e30fcd","isActive":false},
+{"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-1d72a86d-b850-4b8c-a982-c821da2b7424","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"844aa30d-d73a-4f27-b3f7-1a3d28bf7056","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"b99aed40-07a6-4e53-8be0-116a0d88e5bd","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"c37a3091-0e08-46d7-853c-ffbef9266e14","isActive":false}
+]},
+"ToolName":"2D Event",
+"AuthorName":"",
+"dataVersion":16
+}

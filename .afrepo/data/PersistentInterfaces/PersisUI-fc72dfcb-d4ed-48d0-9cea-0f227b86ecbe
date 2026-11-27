@@ -6,15 +6,15 @@
 "TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
 "ID":"PersisUI-fc72dfcb-d4ed-48d0-9cea-0f227b86ecbe",
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
-{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"User Interface","ID":"1047aaa4-d14e-47a1-9c53-2fb855a74633","isActive":false},
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Interface","ID":"1047aaa4-d14e-47a1-9c53-2fb855a74633","isActive":false},
 {"$type":"EAOBJLogicContextAsignComponentData, Assembly-CSharp","customContext":999,"ID":"f47a89c1-eda6-41c4-a592-47bd6ba14521","isActive":false},
 {"$type":"EAOBJ2DEditorHandlerComponentData, Assembly-CSharp","screen2DData":{"$type":"EndlessAdv.AuthDatas.EAInterfaceData, Assembly-CSharp","CanvasData":{"$type":"EAInterfaceCanvasData, Assembly-CSharp","ReferenceWidth":1920.0,"ReferenceHeight":1080.0,"CanvasColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.0,"G":0.0,"B":0.0,"A":0.0},"hudSizePresetType":2,"hudPivotPosition":6,"hudAnchorToTargetPosition":3,"hudOffset":{"$type":"SerializableVector2, Assembly-CSharp","x":0.0,"y":0.0},"SortingOrder":0},"Modules":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.EAInterfaceModuleData, Assembly-CSharp]], mscorlib","$values":[]},"Tags":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"CanBeUsedAsHUD":false,"ID":"PersisUI-fc72dfcb-d4ed-48d0-9cea-0f227b86ecbe","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
-{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"User Interface","ID":"b2e07a7f-dd56-4b5d-82b7-b144f76cf97d","isActive":false},
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Interface","ID":"b2e07a7f-dd56-4b5d-82b7-b144f76cf97d","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"82ed4f42-6bd0-4a9e-9e47-9e28f0fe828c","isActive":false}
-]},"ToolName":"User Interface","AuthorName":"","dataVersion":16},"ID":"aa393042-32e9-4889-92f2-5d78d4e07fb5","isActive":false},
+]},"ToolName":"Interface","AuthorName":"","dataVersion":16},"ID":"aa393042-32e9-4889-92f2-5d78d4e07fb5","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"22864972-c8d6-4f76-9b4b-fa74410254e4","isActive":false}
 ]},
-"ToolName":"User Interface",
+"ToolName":"Interface",
 "AuthorName":"",
 "dataVersion":16
 }

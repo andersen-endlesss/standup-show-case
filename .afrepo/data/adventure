@@ -159,7 +159,8 @@
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.SceneData, Assembly-CSharp]], mscorlib",
 "---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16":"@data/Scenes/---Scene-0eda314a-208b-42b6-ae2d-bff9d2741e16",
 "---Scene-443d9345-e4c9-4ce3-836c-c720351b7619":"@data/Scenes/---Scene-443d9345-e4c9-4ce3-836c-c720351b7619",
-"---Scene-248381ac-8671-4a1b-9afa-7d077c050b51":"@data/Scenes/---Scene-248381ac-8671-4a1b-9afa-7d077c050b51"
+"---Scene-248381ac-8671-4a1b-9afa-7d077c050b51":"@data/Scenes/---Scene-248381ac-8671-4a1b-9afa-7d077c050b51",
+"---Scene-26d8565b-06eb-4178-b7b8-07ef62f0fb68":"@data/Scenes/---Scene-26d8565b-06eb-4178-b7b8-07ef62f0fb68"
 }},
 "ContentPackNodes":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.ContentPackNodeData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
 "$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.ContentPackNodeData, Assembly-CSharp]], mscorlib",
@@ -180,7 +181,7 @@
 "CurrentClientThemingGlobalSettingsContentPackID":"",
 "CurrentCombatSettingsContentPackID":"",
 "MarkedAsNewItem":false,
-"SavedBuildNumber":1003220261126,
+"SavedBuildNumber":1003220261127,
 "CurrentKeyBindingsContentPackID":"",
 "AFCombatRulesets":{"Default":"CmbtRule-b309dd1d-eaf3-47e8-833b-f230e1c467de","Rulesets":[
 {"$type":"AFCombatRulesetData","ID":"CmbtRule-b309dd1d-eaf3-47e8-833b-f230e1c467de","ToolName":"Default","TextLogics":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
@@ -195,7 +196,7 @@
 {"ID":"Kind-4f3966da-369a-4ec0-b37f-0b1eef8e59fb","ToolName":"Support","about":"Heals or helps allies. No damage.","steps":{"damage":{"mode":"adjust","settings":{"formula":[]}},"react":{"mode":"adjust","settings":{"hit":"","small_hit":""}}}}
 ],"stats":[],"Triggers":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[]},"LogicBlocks":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib","$values":[]},"Folders":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib","$values":[]},"kit":"tactics"},
 "AFBuilderNotes":[
-{"ID":"BuilderNote-d64f9aa3-ce0a-4415-ba3e-045c4a45b5ac","Text":"This is a custom node. \n\nVery helpful for design and future ideas.","X":250,"Y":360}
+{"ID":"BuilderNote-d64f9aa3-ce0a-4415-ba3e-045c4a45b5ac","Text":"This is a custom node. \n\nVery helpful for design and future ideas.","X":230,"Y":360}
 ],
 "AFBuilderGroups":[
 {"ID":"BuilderGroup-3d0df689-7b9a-4986-93e0-a1c7d7649e29","Name":"Group 1","Color":"5b8def","Nodes":["--Folder-0254616a-f5c2-477d-868c-e91012668983","CtPkNode-6e70534c-a083-44b9-b520-a09146c019ef","PersisUI-fc72dfcb-d4ed-48d0-9cea-0f227b86ecbe"]},

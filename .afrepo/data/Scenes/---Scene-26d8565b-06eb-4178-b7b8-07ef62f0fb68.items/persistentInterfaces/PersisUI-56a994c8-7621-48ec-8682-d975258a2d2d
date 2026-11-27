@@ -1,0 +1,20 @@
+{
+"$type":"EndlessAdv.AuthDatas.EAPersistentInterfaceData, Assembly-CSharp",
+"ParentGroupID":"---Scene-26d8565b-06eb-4178-b7b8-07ef62f0fb68",
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["---Scene-26d8565b-06eb-4178-b7b8-07ef62f0fb68"]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":730.0,"y":0.0}]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"PersisUI-56a994c8-7621-48ec-8682-d975258a2d2d",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"User Interface","ID":"fe702286-0e9e-4fb3-ae5c-9cc91790002a","isActive":false},
+{"$type":"EAOBJLogicContextAsignComponentData, Assembly-CSharp","customContext":999,"ID":"9bc0d5d1-15c6-483f-963b-d14946625ccb","isActive":false},
+{"$type":"EAOBJ2DEditorHandlerComponentData, Assembly-CSharp","screen2DData":{"$type":"EndlessAdv.AuthDatas.EAInterfaceData, Assembly-CSharp","CanvasData":{"$type":"EAInterfaceCanvasData, Assembly-CSharp","ReferenceWidth":1920.0,"ReferenceHeight":1080.0,"CanvasColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.0,"G":0.0,"B":0.0,"A":0.0},"hudSizePresetType":2,"hudPivotPosition":6,"hudAnchorToTargetPosition":3,"hudOffset":{"$type":"SerializableVector2, Assembly-CSharp","x":0.0,"y":0.0},"SortingOrder":0},"Modules":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.EAInterfaceModuleData, Assembly-CSharp]], mscorlib","$values":[]},"Tags":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"CanBeUsedAsHUD":false,"ID":"PersisUI-56a994c8-7621-48ec-8682-d975258a2d2d","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"User Interface","ID":"20b3552c-905a-4da7-8baa-09ffe33e1efe","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d5606cac-3bba-437c-bad7-5c37d4eb3b0d","isActive":false}
+]},"ToolName":"User Interface","AuthorName":"","dataVersion":16},"ID":"9c51ce2c-ede4-4557-9bd3-c7d8eae762d8","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d7a692af-eb35-4ee8-88d7-ef34cea1ec1f","isActive":false}
+]},
+"ToolName":"User Interface",
+"AuthorName":"",
+"dataVersion":16
+}
